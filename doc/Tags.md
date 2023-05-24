@@ -1,1 +1,1 @@
-mint, pause, unpause, _maxupply
+createAuction, addBid, claim
