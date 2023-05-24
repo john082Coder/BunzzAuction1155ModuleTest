@@ -1,24 +1,21 @@
 ## About
 > one line description ← What issue does this module solve?
 
-Auction NFTMarketplace (ERC1155) module provides the functions for users to create an auction to sell their own NFTs (ERC1155) and others to bid for the auction.
-
-Users can create an auction. Others can bid for the auction and winner will get the NFT.
+Auction ERC1155 module provides the functions for users to create an auction to sell their own NFTs (ERC1155) and others to bid for the auction.
 
 ## Features
 
-This module has maxSupply to limit the total supply of the ERC20 token.
-The maxSupply of tokens that needs to be minted will be set by the owner in the constructor of the contract during deployment.
+Users can create an auction. Others can bid for the auction and winner will get the NFT.
 
 ## Use case
 
-Generally, some ERC20 tokens have the max supply. This is effective in reducing supply and increasing token value.
+Auction ERC1155 moudle is very useful for making agreements between seller who is going to sell their NFTs(ERC1155), and buyer who is going to buy, in which the seller agrees to sell the nft for the highest bid and the buyer agrees to pay it.
 
 ## Sample dApp
 - github repo URL
-    https://github.com/john082Coder/BunzzERC20CappedModuleTest
+    https://github.com/john082Coder/BunzzAuctionERC1155ModuleTest
 - simple dapp URL
-    https://bunzz-erc-20-capped-module-test.vercel.app/
+    https://bunzz-auction-erc-1155-module-test.vercel.app/
 
 ---
 ## Review report
